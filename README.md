@@ -135,7 +135,7 @@ Conducted a comprehensive analysis of a micro-strip patch antenna for wearables 
 
 Feel free to reach out if you have any questions or are interested in collaborating on data science projects. Always open to exciting opportunities and discussions about analytics across any domain!
 
-🖇 __LinkedIn:__ __https://www.linkedin.com/in/rohanbenjamin/__
+🖇 __LinkedIn:__ __https://www.linkedin.com/in/rohanbenjaminix/__
 
 📫 __Email:__ __rohanbenjamin98@gmail.com__
 
