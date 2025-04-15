@@ -1,6 +1,6 @@
 <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Rohan Benjamin Varghese 👋</h1>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanbenjamin/) [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbv98) [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbenjamin98@gmail.com) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+16693198210)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanbenjaminix/) [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbv98) [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbenjamin98@gmail.com) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+16693198210)
 
 I'm passionate about __Data Science__, __Machine Learning__, __Data Analytics__, __Natural Language Processing__, and __DevOps__. 
 
@@ -115,12 +115,6 @@ I completed my Bachelor of Technology in Electronics and Communication Engineeri
 * Achieved a Silhouette Score of 0.45 and identified 20+ cointegrated stock pairs
 * Technologies: Python, Clustering, Cointegration, Statistical Arbitrage
 
-### Sports Data Analytics (Side Project)
-
-* Created a data pipeline to extract and analyze performance metrics from professional sports
-* Developed a player rating system combining traditional stats with advanced positional data
-* Built an interactive dashboard to visualize team strategies and player networks
-* Technologies: Python, NetworkX, Matplotlib, Streamlit, Web Scraping
 
 ## 📽 Publications
 
