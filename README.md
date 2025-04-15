@@ -50,7 +50,7 @@ My data science toolkit is equipped with statistical analysis, predictive modeli
 * *SQL Server Management Studio (SSMS)*
 * *Database Design & Optimization*
 
-<h2>🪚 My Skills (The Data Scientist's Swiss Army Knife):</h2>
+<h2>🪚 My Skills :</h2>
 
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects across various domains.
 
