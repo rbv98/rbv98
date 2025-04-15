@@ -126,10 +126,8 @@ Conducted a comprehensive analysis of a micro-strip patch antenna for wearables 
 
 * Co-Founder: AI & Data Club, Northeastern University
 * Graduate Teaching Assistant: Algorithms (CS5800) & Database management systems (CS6200)
-* Certifications: Google Data Analytics, Microsoft Azure Fundamentals, TensorFlow Developer
-* Advanced Statistical Analysis and Experimental Design
-* Occasional contributor to open-source sports analytics projects
-* Sports enthusiast with an analytical perspective
+* Certifications: Google Data Analytics, Microsoft Azure Fundamentals
+
 
 ## 🎬 Connect With Me
 
