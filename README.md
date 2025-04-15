@@ -60,15 +60,15 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp; 🏢👨‍💻 [__Data Science Intern__](https://github.com/rbv98/crewasis-projects/blob/main/README.md) | [__Crewasis__](https://crewasis.com/) [*January 2025 - Present*]
+&emsp;&emsp; 🏢👨‍💻 [__Data Science Intern__] | [__Crewasis__](https://crewasis.com/) [*January 2025 - Present*]
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__](https://github.com/rbv98/teaching-assistant/blob/main/README.md) | [__Northeastern University__](https://www.khoury.northeastern.edu/) [*September 2024 - Present*]
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__] | [__Northeastern University__](https://www.khoury.northeastern.edu/) [*September 2024 - Present*]
 
-&emsp;&emsp; 🏢👨‍💻 [__Associate DevOps Engineer__](https://github.com/rbv98/accenture-projects/blob/main/README.md) | [__Accenture__](https://www.accenture.com/) [*November 2020 - May 2022*]
+&emsp;&emsp; 🏢👨‍💻 [__Associate DevOps Engineer__] | [__Accenture__](https://www.accenture.com/) [*November 2020 - May 2022*]
 
 ## 🖥 My Resume 
 
-&emsp;&emsp; 📄 [__Data Scientist Resume__](https://github.com/rbv98/Resume/blob/main/Rohan_Benjamin_Resume.pdf)
+&emsp;&emsp; 📄 [__Data Scientist Resume__]()
 
 ## 📖 My Education
 
