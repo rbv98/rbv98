@@ -60,7 +60,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp; 🏢👨‍💻 [__Data Science Intern__] | [__Crewasis__](https://crewasis.com/) [*January 2025 - Present*]
+&emsp;&emsp; 🏢👨‍💻 [__Data Science Intern__] | [__Crewasis__](https://crewasis.com/) [*January 2025 - June 2025*]
 
 &emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant__] | [__Northeastern University__](https://www.khoury.northeastern.edu/) [*September 2024 - Present*]
 
@@ -126,7 +126,7 @@ Conducted a comprehensive analysis of a micro-strip patch antenna for wearables 
 
 * Co-Founder: AI & Data Club, Northeastern University
 * Graduate Teaching Assistant: Algorithms (CS5800) & Database management systems (CS6200)
-* Certifications: Google Data Analytics, Microsoft Azure Fundamentals
+* Certifications: Google Data Analytics, Microsoft Azure Fundamentals, AWS Solutions Architect- Associate
 
 
 ## 🎬 Connect With Me
